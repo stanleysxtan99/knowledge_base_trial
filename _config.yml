@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Base
+title: YSE-RC_Knowledge_Base
 url: "https://orange-ape.cloudvent.net/"
-baseurl:
+baseurl: "/knowledge_base_trial"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
