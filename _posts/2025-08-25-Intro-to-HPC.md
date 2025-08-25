@@ -1,6 +1,6 @@
 ---
 date: 2025-08-25
-title: Introduction to HPC at Yale
+title: Introduction to HPC
 categories: 
   - HPC at Yale
 description: introduction to HPC resources at yale
