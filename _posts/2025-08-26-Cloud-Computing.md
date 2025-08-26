@@ -7,7 +7,6 @@ description: introduction to cloud computing resources at yale
 type: Document
 ---
 
-# Cloud Computing Resources at Yale
 Cloud computing services provide flexible, on-demand access to computing resources. These resources include servers, storage, and software, over the internet. For student researchers and developers, this allows scalable tools for collaboration, data analysis, and experimentation. It enables access to computational resources and systems from anywhere and any time.
 
 ## Yale Spinup
