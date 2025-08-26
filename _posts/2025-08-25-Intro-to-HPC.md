@@ -7,7 +7,7 @@ description: introduction to HPC resources at yale
 type: Document
 ---
 
-# Introduction to HPC at Yale
+
 ## Why use a HPC?
 - Personal machine is too slow and/or does not have enough storage
 - Get access to GPUs
