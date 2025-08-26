@@ -1,7 +1,12 @@
+---
+date: 2025-08-26
+title: Intermediate HPC 
+categories:
+  - HPC at Yale
+description: intermediate HPC resources
+type: Document
+---
 
-
-
-# Intermediate HPC 
 ## Tmux
 Tmux is a terminal multiplexer that is useful when you wish to hold and view multiple windows or terminals, all accessed and controlled from a single terminal. 
 To use Tmux, you run tmux on login node (not compute node), and "salloc" in tmux. 
